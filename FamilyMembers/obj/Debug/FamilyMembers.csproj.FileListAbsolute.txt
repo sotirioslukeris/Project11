@@ -1,0 +1,7 @@
+C:\Users\stefa\source\repos\FamilyMembers\FamilyMembers\bin\Debug\FamilyMembers.exe.config
+C:\Users\stefa\source\repos\FamilyMembers\FamilyMembers\bin\Debug\FamilyMembers.exe
+C:\Users\stefa\source\repos\FamilyMembers\FamilyMembers\bin\Debug\FamilyMembers.pdb
+C:\Users\stefa\source\repos\FamilyMembers\FamilyMembers\obj\Debug\FamilyMembers.csproj.AssemblyReference.cache
+C:\Users\stefa\source\repos\FamilyMembers\FamilyMembers\obj\Debug\FamilyMembers.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\FamilyMembers\FamilyMembers\obj\Debug\FamilyMembers.exe
+C:\Users\stefa\source\repos\FamilyMembers\FamilyMembers\obj\Debug\FamilyMembers.pdb
